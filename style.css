@@ -1,0 +1,65 @@
+
+body{
+    font-family: 'Abel', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Noto Serif', serif;
+background-color: aliceblue;
+}
+
+
+.container{
+    display: flex;
+    margin-right: 30px;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+   
+     
+}
+
+.Firstcontainer,
+.secondcontainer,
+.Thirdcontainer{
+    overflow: hidden;
+    text-align: justify;
+    padding: 40px;
+    border: 2px solid white;
+    margin: 30px;
+    border-radius: 15px;
+    background-color: white;
+    
+}   
+
+.Firstcontainer{
+    height: 400px;
+    width: 29%;
+    max-height: 550px;
+}
+
+.secondcontainer{
+    height: 400px;
+    width: 29%;
+    max-height: 550px;
+}
+
+.Thirdcontainer{
+    height: 400px;
+    width: 29%;
+    max-height: 550px;
+
+}
+
+h4{
+    margin-top: 60px;
+}
+
+.first{
+margin-top: 60px;
+}
+
+.second{
+    margin-top: 35px;
+}
+
+
